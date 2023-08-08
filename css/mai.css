@@ -48,7 +48,7 @@ h1{
 
 
 h4{
-	background: #7a5a5a;
+	background: #d3b5b5;
 	text-align: center;
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -70,11 +70,6 @@ h4{
 	padding-right: 5px;
 }
 
-#numeros{
-	border-radius: 20px;
-	background: #C4D2E7
-	padding: auto;
-}
 
 
 .covid-2{
@@ -98,7 +93,7 @@ h4{
 
 .sintoma{
 	border-radius: 20px;
-	background: #B4BFF5;
+	background: #ffffff;
 	padding-top: 10px;
 	margin-right: auto;
 	margin-left: auto;
@@ -154,13 +149,8 @@ footer{
     border-radius: 3px;
 
 }
-.contenedor-imagenes .imagen{
-	width: 32%;
-	position: relative;
-	height: 250px;
-	margin-bottom: 5px;
-	box-shadow: 0px 0px 3px 0px rgba:0,0,0,.75;
-}
+
+
 .imagen img{
 	width: 100%;
 	height: 100%;
